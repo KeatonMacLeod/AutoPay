@@ -1,0 +1,11 @@
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\bin\Debug\AutoPay.exe.config
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\bin\Debug\AutoPay.exe
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\bin\Debug\AutoPay.pdb
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\bin\Debug\WebDriver.dll
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\bin\Debug\WebDriver.xml
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\obj\Debug\AutoPay.csprojResolveAssemblyReference.cache
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\obj\Debug\AutoPay.csproj.CoreCompileInputs.cache
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\obj\Debug\AutoPay.exe
+C:\Users\Jeeves\VisualStudioProjects\AutoPay\AutoPay\obj\Debug\AutoPay.pdb
